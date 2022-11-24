@@ -1,4 +1,4 @@
-name: Netology AHJ2
+name: Netology Homework AHJ2
 
 on: [push, pull_request]
 
